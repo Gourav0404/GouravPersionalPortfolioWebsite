@@ -5,6 +5,10 @@
 // it for your real information whenever you're ready.
 // ============================================================
 
+
+import ProfifeImage from '../assets/GouravChouhanImage.jpeg'
+import ResumePDF from '../assets/GouravChouhanResume.pdf'
+
 const personalInfo = {
   name: "Gourav Chouhan",
   title: "Frontend Developer",
@@ -33,10 +37,10 @@ const personalInfo = {
   },
 
   // Path to your resume file — drop your PDF into /public and update this
-  resumeUrl: "./src/assets/GouravChouhanResume.pdf",
+  resumeUrl: ResumePDF,
 
   // Replace with an image at src/assets/profile.jpg
-  profileImage: "/src/assets/GouravChouhanImage.jpeg",
+  profileImage: ProfifeImage,
 };
 
 export const education = {
