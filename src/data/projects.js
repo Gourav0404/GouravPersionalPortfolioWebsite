@@ -6,7 +6,7 @@
 // ============================================================
 
 import ProjectImage1 from '../assets/ProjectImage1.png'
-import ProjectImage2 from '../assets/ProjectImage2.png'
+import ProjectImage2 from '../assets/projectImage2.png'
 import ProjectImage3 from '../assets/ProjectImage3.png'
 import ProjectImage4 from '../assets/ProjectImage4.png'
 
